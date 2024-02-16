@@ -140,7 +140,7 @@ export const addMovieToList = (movie) => {
       alt: `${movie.Title} ${movie.Year}`,
       title: `${movie.Title} ${movie.Year}`,
     },
-    
+
     container: item,
   });
 };
